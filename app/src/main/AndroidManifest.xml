@@ -40,7 +40,7 @@
 
         </intent-filter>
         </receiver>
-        <receiver> </receiver>
+
     </application>
 
 </manifest>
